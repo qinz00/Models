@@ -1,0 +1,14 @@
+{
+    "train_path": "/media/zzz/EXTERNAL_USB/data/train",
+    "val_path": "/media/zzz/EXTERNAL_USB/data/val",
+    "batch_size": 32,
+    "sample_length1": 4,
+    "snr_low_list": [17, 14, 10, 5, 5, 10, 14],
+    "snr_high_list": [20, 17, 14, 10, 10, 14, 17],
+    "peak_range1": [0.75, 0.95],
+    "freq": 2048,
+    "snr_change_time": 2000,
+
+    "sample_length2": 4.25,
+    "peak_range2": [0.25, 0.95]
+}
